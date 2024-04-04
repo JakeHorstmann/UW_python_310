@@ -1,0 +1,10 @@
+-e .
+loguru
+pysnooper
+pytest
+pytest-cov
+pytest-bdd
+pytest-mock
+pre-commit
+bandit
+safety

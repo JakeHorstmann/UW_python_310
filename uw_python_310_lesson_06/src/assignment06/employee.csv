@@ -1,0 +1,13 @@
+employee_id,name,address,ssn,date_of_birth,job_title,start_date,end_date
+1,Anubhaw Arya,Seattle,123456789,1/1/1970,lecturer,1/1/2021,
+2,Jake,Kent,111111111,1/1/2000,BI Analyst,11/24/2020,
+3,Bill,Bozeman,111111111,11/12/2000,Counter,12/1/2021,12/31/2023
+4,Rodney,Bozeman,111111111,8/15/2005,Warehouse,1/25/2023,11/25/2023
+5,Bobby,Seattle,222222222,4/12/2022,Waiter,4/1/2023,8/25/2023
+6,Jill,Portland,333333333,10/31/2001,Sales,3/31/2023,11/1/2023
+7,Elizabeth,12th St,888888888,7/19/2001,Nurse,9/12/2022,11/26/2023
+8,Jake 2,Puyallup,999999999,1/1/2000,Doctor,3/24/2015,12/31/2023
+9,Mom,Home,555555555,10/15/1976,Mom,6/14/2012,
+10,Batman,Batcave,555555555,8/21/1973,Vigilante,5/22/2012,11/27/2023
+11,Mike,Portland,123456789,4/25/1989,Security,12/4/2019,
+12,Cody,Home,123456789,10/31/2013,Dog,10/31/2014,

@@ -1,0 +1,10 @@
+id,cust_name,ship_method,cost,deliver_date,desc,weight,volume,is_dangerous,is_international
+1,Jake's Mom,ground,25.0,12/25/2023,Christmas present,4.65,92.45,False,False
+2,Jake's Dad,overseas,30.0,12/25/2023,very hot hot sauce,1.2,4.6,True,False
+3,Brother,ground,25.0,12/25/2023,awesome gift,5.4,112.0,False,False
+4,elizabeth,air,13.0,12/18/2023,toy car,0.256,0.65,False,False
+5,Sister,air,1080.0,12/19/2023,coal,4.2,54.0,False,True
+6,marbella,ground,25.0,12/25/2023,ove glove,2.2,3.4,False,False
+7,Steve,air,847.1,12/20/2023,Diamonds,8.7,42.355,False,False
+8,Jake,ground,25.0,1/24/2024,very precise weight,4.544,54.413,False,False
+9,Billy,overseas,30.0,1/12/2024,Sword,6.3,15.416,True,False
